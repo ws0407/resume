@@ -1,0 +1,9 @@
+{
+	"name": "xelatex -> bibtex -> xelatex -> xelatex",
+	"tools": [
+		"xelatex",
+		"bibtex",
+		"xelatex",
+		"xelatex"
+	]
+}
